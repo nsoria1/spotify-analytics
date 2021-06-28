@@ -1,0 +1,51 @@
+artist_rank,artist_id,artist_name,artist_genres,artist_popularity,artist_followers
+1,1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,"['electro latino', 'latin', 'latin hip hop', 'reggaeton', 'trap latino']",83,4504060
+2,5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'trap triste']",80,492736
+3,4q3ewBCX7sLwd24euuV69X,Bad Bunny,"['latin', 'reggaeton', 'trap latino']",98,34405295
+4,4SsVbpTthjScTS7U2hmr1X,Arcangel,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",86,6503183
+5,4VMYDCV2IEDYJArk749S6m,Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",90,23470554
+6,0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",81,5056936
+7,1i8SpTcr7yvPOmcqrbnVXY,Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",92,28673861
+8,33ScadVnbm2X8kkUqOkC6Z,Don Omar,"['latin', 'latin hip hop', 'puerto rican pop', 'reggaeton', 'trap latino']",83,5484013
+9,3E6xrwgnVfYCrCs0ePERDz,Wisin,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",88,6800843
+10,3SUT1jjM5hzZj9TLfLZGIP,Tego Calderon,"['latin', 'latin hip hop', 'rap boricua', 'reggaeton', 'trap latino']",73,2431511
+11,1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,"['puerto rican pop', 'trap latino']",95,5295091
+12,2oQX8QiMXOyuqbcZEFsZfm,El Alfa,"['dembow', 'latin', 'rap dominicano', 'reggaeton', 'trap latino']",83,1713680
+13,1r4hJ1h58CWwUQe3MxPuau,Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",91,26080138
+14,329e4yvIujISKGKz1BZZbO,Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",90,10182229
+15,7iK8PXO48WeuP03g8YR51W,Myke Towers,['trap latino'],95,5669781
+16,47MpMsUfWtgyIIBEFOr4FE,Lunay,"['latin', 'latin pop', 'reggaeton', 'reggaeton flow', 'trap latino']",83,4660311
+17,5hdhHgpxyniooUiQVaPxQ0,Nio Garcia,"['latin', 'reggaeton', 'trap latino']",86,1934260
+18,7tU1VKOuxiNZwBZC6RHidA,Alexis y Fido,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",68,3645146
+19,1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",95,28269749
+20,6XFITTl7cFTdopDY3lUdlY,J Alvarez,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",70,3896422
+21,3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,"['latin', 'latin hip hop', 'latin pop', 'reggaeton', 'reggaeton flow', 'trap latino']",79,4893108
+22,2R21vXR83lH98kGeO99Y66,Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",90,17759643
+23,0EFisYRi20PTADoJrifHrz,Jhay Cortez,"['latin', 'reggaeton', 'trap latino']",90,2194611
+24,00me4Ke1LsvMxt5kydlMyU,Cosculluela,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",75,3855906
+25,4IMAo2UQchVFyPH24PAjUs,Jowell & Randy,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",76,2848263
+26,5fJsY7afrbsyzJj9wdzJMh,"Tito ""El Bambino""","['latin', 'latin hip hop', 'latin pop', 'reggaeton', 'reggaeton flow', 'trap latino']",70,2584865
+27,2TjgzYcbTdsZjbT9OItIeB,"Héctor ""El Father""","['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",67,423897
+28,6w3SkAHYPsQ1bxV7VDlG5y,Cazzu,"['argentine hip hop', 'latin', 'latin pop', 'rap latina', 'reggaeton', 'trap argentino', 'trap latino']",79,3560346
+29,1SupJlEpv7RS2tPNRaHViT,Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",88,14583060
+30,1pf0MPKfKdvS8J779mS1Ay,Miky Woodz,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",78,2024282
+31,2biH2I1TvZlIIIc5W14oIJ,"Franco ""El Gorilla""","['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",62,251017
+32,3LKXWvXFWrkwUzJWxzwVpW,Tony Dize,"['latin', 'latin hip hop', 'reggaeton', 'relaxative', 'trap latino']",69,2346231
+33,0Q8NcsJwoCbZOHHW63su5S,Mora,"['reggaeton', 'reggaeton flow', 'trap latino']",80,129150
+34,2jSGzJw0ebJLu7OLVSOcBP,Plan B,"['latin', 'reggaeton', 'trap latino']",76,1299188
+35,3jFjgKOGfVLWfXX8q5wrsg,R.K.M & Ken-Y,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",67,441811
+36,2ayNSoKPCRAfjp6hQ76hRu,Nacho,"['dominican pop', 'latin', 'latin pop', 'pop reggaeton', 'pop venezolano', 'reggaeton', 'trap latino']",71,3382935
+37,21451j1KhjAiaYKflxBjr1,Zion & Lennox,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",83,5425021
+38,2OHKEe204spO7G7NcbeO2o,Ñejo,"['latin', 'latin hip hop', 'perreo', 'reggaeton', 'reggaeton flow', 'trap latino']",70,2402437
+39,14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,"['latin', 'reggaeton', 'trap latino']",87,2785527
+40,6w9ToX5slZ4uIdmD17hJ3c,Bryant Myers,"['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",81,5086304
+41,0qTZZWLzuD59Un5r1speHm,Chris Jedi,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",68,1604039
+42,1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,"['latin', 'reggaeton', 'reggaeton flow', 'trap argentino', 'trap latino']",86,1289541
+43,0xf0KaVp6AMWgesiBh6fee,Musicologo Y Menes,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",52,155500
+44,3IEvQoAohcGX7CdrbtIle7,Baby Rasta & Gringo,"['latin', 'latin hip hop', 'perreo', 'reggaeton', 'reggaeton flow', 'salsa choke', 'trap latino']",63,2142836
+45,0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",85,7631052
+46,7lCRuW6BSXGAsxuQV9lR0i,Gigolo Y La Exce,"['latin', 'perreo', 'reggaeton', 'reggaeton flow', 'trap latino']",66,332642
+47,0n6sKrG0xKAf8xmdqeNGke,Los Legendarios,"['latin', 'reggaeton', 'trap latino']",85,21374
+48,77ziqFxp5gaInVrF2lj4ht,Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",89,8372032
+49,62lbdm09j0QUbWB7SqCJvt,Anonimus,"['reggaeton', 'reggaeton flow', 'trap latino']",62,176171
+50,5pZE9tgrhmIGWAsJZ7YxNK,Luny Tunes,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino', 'tropical']",64,1007102

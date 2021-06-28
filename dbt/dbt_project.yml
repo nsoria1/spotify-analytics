@@ -1,0 +1,28 @@
+name: 'spotify'
+version: '1.0.0'
+
+profile: 'spotify_analytics'
+
+source-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+data-paths: ["data"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"  # directory which will store compiled SQL files
+clean-targets:         # directories to be removed by `dbt clean`
+    - "target"
+    - "dbt_modules"
+
+config-version: 2
+models:
+  # dbname
+  spotify:
+    materialized: table
+    # Applies to all files under models/staging/
+    staging:
+      materialized: view
+    # Applies to all files under models/view/
+    view:
+      materialized: view

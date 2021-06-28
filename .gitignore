@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+app/__pycache__/
+app/.cache
+
+# VSCode
+.vscode/*
+
+# Mac/OSX
+.DS_Store
+
+# Common credential files
+**/cred.py
