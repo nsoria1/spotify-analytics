@@ -10,9 +10,10 @@ stage_user_top_artist as (
         artist_rank,
         artist_id,
         artist_name,
-        artist_genres,
+        artist_genre,
         artist_popularity,
-        artist_followers
+        artist_followers,
+        artist_genre_others
     from final
 )
 select

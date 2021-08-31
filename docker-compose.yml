@@ -32,24 +32,24 @@ services:
         depends_on:
           - postgres
 
-    # metabase:
-    #     image: metabase/metabase
-    #     container_name: metabase
-    #     restart: always
-    #     volumes: 
-    #       - ./metabase/metabase.db:/metabase.db
-    #     environment:
-    #       MB_ENCRYPTION_SECRET_KEY: abcdefghijklmnopqrstuvwxyz
-    #       MB_DB_FILE: /metabase.db
-    #     ports:
-    #       - 3000:3000
-    #     links:
-    #       - postgres
-    #     networks:
-    #       - backend
-    #     depends_on:
-    #       - postgres
-    #       - dbt
+    metabase:
+        image: metabase/metabase
+        container_name: metabase
+        restart: always
+        volumes: 
+          - ./metabase/metabase.db:/metabase.db
+        environment:
+          MB_ENCRYPTION_SECRET_KEY: abcdefghijklmnopqrstuvwxyz
+          MB_DB_FILE: /metabase.db
+        ports:
+          - 3000:3000
+        links:
+          - postgres
+        networks:
+          - backend
+        depends_on:
+          - postgres
+          - dbt
 
 networks:
   backend:

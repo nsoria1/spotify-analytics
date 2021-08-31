@@ -95,19 +95,19 @@ models:
         description: Foreign key to albums table
         tests:
           - relationships:
-              to: ref('dim_albums')
+              to: ref('dimension_album')
               field: album_id
       - name: track_id
         description: Foreign key to tracks table
         tests:
           - relationships:
-              to: ref('dim_tracks')
+              to: ref('dimension_tracks')
               field: track_id
       - name: artist_id
         description: Foreign key to artists table
         tests:
           - relationships:
-              to: ref('dim_artists')
+              to: ref('dimension_artist')
               field: artist_id
       - name: artist_id_others
         description: IDs of other artists
@@ -120,7 +120,7 @@ models:
         description: Foreign key to tracks table
         tests:
           - relationships:
-              to: ref('dim_tracks')
+              to: ref('dimension_tracks')
               field: track_id
       - name: track_rank
         description: rank of track
@@ -131,13 +131,13 @@ models:
         description: Foreign key to albums table
         tests:
           - relationships:
-              to: ref('dim_albums')
+              to: ref('dimension_album')
               field: album_id
       - name: artist_id
         description: Foreign key to artists table
         tests:
           - relationships:
-              to: ref('dim_artists')
+              to: ref('dimension_artist')
               field: artist_id
 
   - name: fact_artists
@@ -146,7 +146,7 @@ models:
         description: Foreign key to artists table
         tests:
           - relationships:
-              to: ref('dim_artists')
+              to: ref('dimension_artist')
               field: artist_id
       - name: artist_rank
         description: rank of artist

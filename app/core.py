@@ -81,11 +81,15 @@ def parse_top_artists(data):
         'index': 'artist_rank',
         'id': 'artist_id',
         'name': 'artist_name',
-        'genres': 'artist_genres',
+        'genres': 'artist_genre',
         'popularity': 'artist_popularity',
         'followers.total': 'artist_followers'
     }
     top_artists = parse_json(data=data, columns=columns, result_key='items')
+
+    (top_artists['artist_genre'], 
+        top_artists['artist_genre_others']) = zip(*top_artists['artist_genres'].apply(parse_primary_other))
+
     return top_artists
 
 def parse_primary_other(parse_list=[]):
@@ -189,7 +193,9 @@ def parse_songplays(data, scope, columns=None):
                             columns=artist_features_columns,
                             result_key='artists')
     # Parse genres
-    (songplays['artist_genre'], songplays['artist_genre_others']) = zip(*songplays['artist_genres'].apply(parse_primary_other))
+    (songplays['artist_genre'], 
+        songplays['artist_genre_others']) = zip(*songplays['artist_genres'].apply(parse_primary_other))
+        
     songplays.drop(columns=['artist_genres', 'artists'], axis=1, inplace=True)
     return songplays
 
